@@ -1,4 +1,7 @@
-n = int(input())
+5
+1 1 2 2 3
+2
+1 n = int(input())
 s = list(map(int, input().split()))
 q = int(input())
 t = list(map(int,input().split()))
